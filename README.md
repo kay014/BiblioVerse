@@ -1,0 +1,1 @@
+This project is a book recommendation website named "BiblioVerse". This enables user to find books according to their mood and preference. In future, peronal assistance option will also be added with the help of ai and ml.
