@@ -1,0 +1,64 @@
+body {
+  background-color: rgb(255, 255, 255);
+}
+.frontpage {
+  height: max-content;
+  background-color: rgb(139, 247, 243,0.8);
+  color: rgb(22, 22, 22);
+  font-family: "Ubuntu", serif;
+  font-style: normal;
+  /* border-bottom: 16px solid rgba(15, 57, 55, 0.9); */
+}
+
+header {
+  background: url(https://perhapsmaybenot.com/wp-content/uploads/2022/10/Booktok.png);
+  /* position: absolute;
+  top: 0;
+  left: 0; */
+  max-height: 80%;
+}
+.front {
+  padding: 50px;
+}
+p{
+  margin: 0.8%;
+}
+.firstnav {
+  height: 50px;
+}
+.signup {
+  background-color: black;
+  color: white;
+  font: 18px ubuntu;
+  height: 8%;
+  width: 100px;
+  border: none;
+  border-radius: 15px;
+  margin: 20px;
+  position: absolute;
+  right:0;
+}
+.midline {
+  text-align: center;
+  margin: 10%;
+  padding-left: 15%;
+  padding-right: 15%;
+}
+#font {
+  color: black;
+  font: 30px "IBM Plex Sans", serif;
+}
+.features {
+  margin: 3%;
+  padding-left: 2%;
+  padding-right: 2%;
+  text-align: center;
+}
+footer {
+  text-align: center;
+  height: 100px;
+  background-color: rgb(56, 159, 156);
+}
+#icon {
+  margin: 10px;
+}
